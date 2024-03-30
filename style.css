@@ -1,0 +1,21 @@
+h1,h2{
+    text-align: center;color: white;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+nav a{
+    font-size: 40px;border:10px solid yellow;
+}
+
+
+
+
+
+
+.poroda{
+    text-align: left;color: rgb(241, 227, 100);
+}

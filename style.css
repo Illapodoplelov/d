@@ -9,9 +9,15 @@ p{
 }
 nav a{
     font-size: 40px;border:10px solid yellow;
+    text-decoration:none;background-color:yellow;
+    border-radius:5px;color:blue;margin:50px;
 }
-
-
+img{
+    margin:75px;border:4px dashed blue;
+}
+nav{
+    text-align:center;
+}
 
 
 
@@ -19,3 +25,8 @@ nav a{
 .poroda{
     text-align: left;color: rgb(241, 227, 100);
 }
+
+
+
+
+
